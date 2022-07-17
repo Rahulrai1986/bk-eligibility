@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg</name>
+   <tag></tag>
+   <elementGuidId>06769ea7-f277-4ef2-9baf-7e1ef2af5e97</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.ng-tns-c26-0 > svg</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>287fa9fb-e200-40c2-9abc-45ed7f4e8bc2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>18</value>
+      <webElementGuid>f5ca40b5-2b52-43c4-b81b-29d4a403a787</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>18</value>
+      <webElementGuid>5e00fff9-b59b-4869-ae70-124a0563288b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 18 18</value>
+      <webElementGuid>d60002c8-bec8-41d9-af54-4094ba1a3810</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>none</value>
+      <webElementGuid>4ee9989c-6265-4f57-90fb-9f0e370e22a6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns</name>
+      <type>Main</type>
+      <value>http://www.w3.org/2000/svg</value>
+      <webElementGuid>26f0d618-0608-4028-ac3e-4bb8c8684609</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/section[@class=&quot;app-container&quot;]/div[@class=&quot;toolbar&quot;]/app-menu-nav[1]/div[@class=&quot;nav-container&quot;]/mat-toolbar[@class=&quot;mat-toolbar mat-toolbar-single-row&quot;]/div[@class=&quot;language-n-btn&quot;]/mat-form-field[@class=&quot;mat-form-field ng-tns-c26-0 mat-primary mat-form-field-type-mat-select mat-form-field-appearance-outline mat-form-field-can-float&quot;]/div[@class=&quot;mat-form-field-wrapper ng-tns-c26-0&quot;]/div[@class=&quot;mat-form-field-flex ng-tns-c26-0&quot;]/div[@class=&quot;mat-form-field-suffix ng-tns-c26-0 ng-star-inserted&quot;]/div[@class=&quot;ng-tns-c26-0&quot;]/svg[1]</value>
+      <webElementGuid>946a570b-44af-4948-89b6-35809a268292</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Help'])[1]/preceding::*[name()='svg'][2]</value>
+      <webElementGuid>f570fba3-7546-485b-9bfd-cfaa7435938a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Low cost financing'])[1]/preceding::*[name()='svg'][2]</value>
+      <webElementGuid>74db00f1-85ab-47ff-80a0-3614401067b0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_kannada</name>
+   <tag></tag>
+   <elementGuidId>a64ca46c-8833-4f26-ae08-45820c380e28</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//body/app-root[1]/section[1]/div[1]/app-menu-nav[1]/div[1]/mat-toolbar[1]/div[2]/mat-form-field[1]/div[1]/div[1]/div[3]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

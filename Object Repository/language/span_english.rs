@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_english</name>
+   <tag></tag>
+   <elementGuidId>8c1d73de-4582-496d-87d1-9991e3044993</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//body/app-root[1]/section[1]/div[1]/app-menu-nav[1]/div[1]/mat-toolbar[1]/div[2]/mat-form-field[1]/div[1]/div[1]/div[3]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

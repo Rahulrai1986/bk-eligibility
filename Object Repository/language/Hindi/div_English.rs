@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_English</name>
+   <tag></tag>
+   <elementGuidId>8d6c6e2a-9758-4cef-b01c-804c80bee1a2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Help'])[1]/preceding::div[10]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.mat-form-field-infix.ng-tns-c26-0</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>10ad5bf9-a1c1-46c2-8c6f-d0607b091e9a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-form-field-infix ng-tns-c26-0</value>
+      <webElementGuid>249f93f8-e9cd-4d88-bf1d-31e6ec94025a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> English  </value>
+      <webElementGuid>1c23850f-fa3c-462e-aee2-afc8a00830a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/section[@class=&quot;app-container&quot;]/div[@class=&quot;toolbar&quot;]/app-menu-nav[1]/div[@class=&quot;nav-container&quot;]/mat-toolbar[@class=&quot;mat-toolbar mat-toolbar-single-row&quot;]/div[@class=&quot;language-n-btn&quot;]/mat-form-field[@class=&quot;mat-form-field ng-tns-c26-0 mat-primary mat-form-field-type-mat-select mat-form-field-appearance-outline mat-form-field-can-float&quot;]/div[@class=&quot;mat-form-field-wrapper ng-tns-c26-0&quot;]/div[@class=&quot;mat-form-field-flex ng-tns-c26-0&quot;]/div[@class=&quot;mat-form-field-infix ng-tns-c26-0&quot;]</value>
+      <webElementGuid>6903da0b-bc4a-4506-b5c2-ebea25cfdf55</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Help'])[1]/preceding::div[10]</value>
+      <webElementGuid>061c61bd-2f1c-4d4d-9626-0b04c897411e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Low cost financing'])[1]/preceding::div[11]</value>
+      <webElementGuid>1d46aa8f-3b6c-481f-9d61-61eeb7bf6aef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='English']/parent::*</value>
+      <webElementGuid>742805b8-0913-4f3e-93be-113f4869d4bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[3]</value>
+      <webElementGuid>d8725028-da60-4868-a86b-569a97953983</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' English  ' or . = ' English  ')]</value>
+      <webElementGuid>92a787e9-eb13-4543-a31d-1a123113cd66</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

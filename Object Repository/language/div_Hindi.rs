@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Hindi</name>
+   <tag></tag>
+   <elementGuidId>b59dac2a-a83a-4377-8358-98af3f822f71</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='मदद'])[1]/preceding::div[10]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.mat-form-field-infix.ng-tns-c26-0</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ef3d18d8-e7d0-4b73-91d9-efc2e8f8f860</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-form-field-infix ng-tns-c26-0</value>
+      <webElementGuid>a76bdb8a-0ca6-43a4-848f-2ba368e8fe28</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Hindi हिंदी</value>
+      <webElementGuid>dc934547-0237-4736-be20-1021b247d915</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/section[@class=&quot;app-container&quot;]/div[@class=&quot;toolbar&quot;]/app-menu-nav[1]/div[@class=&quot;nav-container&quot;]/mat-toolbar[@class=&quot;mat-toolbar mat-toolbar-single-row&quot;]/div[@class=&quot;language-n-btn&quot;]/mat-form-field[@class=&quot;mat-form-field ng-tns-c26-0 mat-primary mat-form-field-type-mat-select mat-form-field-appearance-outline mat-form-field-can-float mat-form-field-should-float&quot;]/div[@class=&quot;mat-form-field-wrapper ng-tns-c26-0&quot;]/div[@class=&quot;mat-form-field-flex ng-tns-c26-0&quot;]/div[@class=&quot;mat-form-field-infix ng-tns-c26-0&quot;]</value>
+      <webElementGuid>ed0e7f01-99e1-431b-a818-a6314d8125bd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='मदद'])[1]/preceding::div[10]</value>
+      <webElementGuid>07dd5da9-9c61-4899-8622-ba22457bf234</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Hindi']/parent::*</value>
+      <webElementGuid>6ec94781-f475-4bc6-9823-6596094d9d7d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[3]</value>
+      <webElementGuid>385791a2-32e7-4eee-baac-9ec8d13c361e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' Hindi हिंदी' or . = ' Hindi हिंदी')]</value>
+      <webElementGuid>1b910819-0bc1-45ee-9fcc-24367f88806c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

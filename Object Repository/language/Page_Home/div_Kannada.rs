@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Kannada</name>
+   <tag></tag>
+   <elementGuidId>537f5a71-f6ba-44cb-bb3a-fe174cbc4199</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='ಸಹಾಯ'])[1]/preceding::div[10]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.mat-form-field-infix.ng-tns-c26-0</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>5d5d7d48-cbc2-43cc-925e-1af7c0989a47</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-form-field-infix ng-tns-c26-0</value>
+      <webElementGuid>af8c6038-7473-4bf0-b324-2afe2d176bdf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Kannada ಕನ್ನಡ</value>
+      <webElementGuid>568248cc-414f-4f25-97a1-f463952336fc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/section[@class=&quot;app-container&quot;]/div[@class=&quot;toolbar&quot;]/app-menu-nav[1]/div[@class=&quot;nav-container&quot;]/mat-toolbar[@class=&quot;mat-toolbar mat-toolbar-single-row&quot;]/div[@class=&quot;language-n-btn&quot;]/mat-form-field[@class=&quot;mat-form-field ng-tns-c26-0 mat-primary mat-form-field-type-mat-select mat-form-field-appearance-outline mat-form-field-can-float mat-form-field-should-float&quot;]/div[@class=&quot;mat-form-field-wrapper ng-tns-c26-0&quot;]/div[@class=&quot;mat-form-field-flex ng-tns-c26-0&quot;]/div[@class=&quot;mat-form-field-infix ng-tns-c26-0&quot;]</value>
+      <webElementGuid>537dbe53-0ba7-447e-98b8-4594df495344</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ಸಹಾಯ'])[1]/preceding::div[10]</value>
+      <webElementGuid>19ab3990-121f-4276-a99d-f9f19cc25b93</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Kannada']/parent::*</value>
+      <webElementGuid>16a27822-0d94-46e6-8a6c-7d2104334d99</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[3]</value>
+      <webElementGuid>afba733f-9945-4bab-aac3-0f45a47f6931</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' Kannada ಕನ್ನಡ' or . = ' Kannada ಕನ್ನಡ')]</value>
+      <webElementGuid>059121ba-62e6-4084-bc58-dbbf2a58c680</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

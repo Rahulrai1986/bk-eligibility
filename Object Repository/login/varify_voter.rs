@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>varify_voter</name>
+   <tag></tag>
+   <elementGuidId>f395a98f-90f3-43d8-b0da-e7de2bebe610</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//body/app-root[1]/section[1]/div[2]/app-home[1]/div[1]/div[1]/div[3]/div[1]/div[5]/button[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>
